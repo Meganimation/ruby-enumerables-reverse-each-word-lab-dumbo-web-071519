@@ -1,6 +1,8 @@
-def collect(arr)
+def reverse_each_word(arr)
 
 arr_reversed = arr.collect {|ele| ele.reverse}
 puts arr_reversed
 
 end
+
+p reverse_each_word
