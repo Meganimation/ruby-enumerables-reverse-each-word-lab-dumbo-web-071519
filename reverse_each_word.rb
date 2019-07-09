@@ -4,5 +4,3 @@ arr_reversed = arr.collect {|ele| ele.reverse}
 puts arr_reversed
 
 end
-
-p reverse_each_word(arr)
