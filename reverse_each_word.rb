@@ -4,4 +4,5 @@ def reverse_each_word(string)
   arr.collect { |string| 
     test_array.push string.reverse }
   test_array.join(" ")
+  puts test_array
 end
