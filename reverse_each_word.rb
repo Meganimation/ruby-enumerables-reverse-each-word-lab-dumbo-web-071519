@@ -1,4 +1,4 @@
-def reverse_each_word(arr)
+def collect(arr)
 
 arr_reversed = arr.collect {|ele| ele.reverse}
 puts arr_reversed
