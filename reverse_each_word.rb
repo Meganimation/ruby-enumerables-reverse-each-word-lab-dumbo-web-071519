@@ -5,4 +5,4 @@ puts arr_reversed
 
 end
 
-p reverse_each_word
+p reverse_each_word(arr)
